@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cloud to Device Messaging test</string>
+    <string name="registration_screen_name">Here you can register your device for C2DM.</string>
+    <string name="button_text">Click this button to register for C2DM</string>
+</resources>
