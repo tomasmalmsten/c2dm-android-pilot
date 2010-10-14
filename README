@@ -1,0 +1,13 @@
+This is a very simple android application to test out the new C2DM feature
+from Google. The code is open source and free to use and abuse.
+
+The simplest way to build and install the application is to use the Maven
+build script included. For android maven plugin specific help please see the
+official website: http://code.google.com/p/maven-android-plugin/
+
+There is a matching application server side to this code written in Python. It
+will be available under the same terms (I.E no terms at all) when I have time to
+put it together.
+
+Please understand that I take no responsibility for any possible damage that
+this code causes. It is free to use as is without any warranties. 
